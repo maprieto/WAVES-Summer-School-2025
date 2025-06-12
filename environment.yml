@@ -1,0 +1,12 @@
+channels:
+- conda-forge
+dependencies:
+- python=
+# Jupyter
+- jupyterlab
+# Python Kernel
+- matplotlib
+- numpy
+- scipy
+- pip
+- h5py
